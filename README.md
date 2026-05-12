@@ -1,9 +1,9 @@
 ## Benjamin
 
 I'm teaching students at KNU and DCU.  
-   ✅ Computational Thinking & S/W Coding
-   ✅ Python
-   ✅ Open Source Software Application and Development
+   ✅ Computational Thinking & S/W Coding  
+   ✅ Python  
+   ✅ Open Source Software Application and Development  
 <!--
 **pythonandbenjamin/pythonandbenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
