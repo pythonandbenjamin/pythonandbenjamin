@@ -3,7 +3,8 @@
 I'm teaching students at KNU and DCU.  
    ✅ Computational Thinking & S/W Coding  
    ✅ Python  
-   ✅ Open Source Software Application and Development  
+   ✅ Open Source Software Application and Development 
+   ✅ Operating System
    ✅ coolbrise@knu.ac.kr  
    ✅ coolbrise@cu.ac.kr  
 <!--
